@@ -1,5 +1,5 @@
-// Class isn't hoisting
-// How a normal class functions
+// Class hasn't hoisting
+// How Normal functions
 
 /**
  * Define a class in Holberton
